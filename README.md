@@ -1,8 +1,8 @@
-**Webapi Python**
+# **Webapi Python**
 
 Nesta tarefa, foi desenvolvida uma API utilizando o framework Flask em Python, com o objetivo de estudo da linguagem python. 
 
-**Detalhamento das Funcionalidades Implementadas:**
+## **Detalhamento das Funcionalidades Implementadas:**
 
 -Listagem de Funcionários: Implementada através da rota /listafuncionario, que retorna uma lista com os nomes de todos os funcionários registrados na folha de pagamento.
 
@@ -16,7 +16,7 @@ Nesta tarefa, foi desenvolvida uma API utilizando o framework Flask em Python, c
 
 -Exclusão de Funcionário: Implementada na rota /excluirFuncionario/<codigo>, que permite remover um funcionário do sistema com base no seu código, utilizando requisições do tipo DELETE.
 
-**Tecnologias Utilizadas:**
+## **Tecnologias Utilizadas:**
 
 Flask: Utilizado como framework principal para o desenvolvimento da API, proporcionando uma estrutura leve e flexível para criação das rotas HTTP.
 pandas: Biblioteca utilizada para a manipulação de dados, facilitando a leitura e escrita em arquivos CSV contendo informações da folha de pagamento.
